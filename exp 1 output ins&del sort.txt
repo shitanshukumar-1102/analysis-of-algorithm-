@@ -1,0 +1,55 @@
+===== SORTING MENU =====
+1. Insertion Sort
+2. Selection Sort
+Enter your choice:1
+
+Enter the number of elements:5
+
+Enter the elements:
+55
+
+77
+
+67
+
+89
+
+98
+
+
+Array after Insertion Sort:
+55 67 77 89 98
+
+Do you want to perform another operation? (y/n):y
+
+
+===== SORTING MENU =====
+1. Insertion Sort
+2. Selection Sort
+Enter your choice:2
+
+Enter the number of elements:5
+
+Enter the elements:
+55
+
+
+
+67
+
+88
+
+98
+
+54
+
+
+Array after Selection Sort:
+54 55 67 88 98
+
+Do you want to perform another operation? (y/n):n
+
+
+Program Ended.
+
+Process finished with exit code 0
